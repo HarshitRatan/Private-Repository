@@ -1,4 +1,4 @@
-# S.R. Classes – Coaching Center Website (Code Private)
+# S.R. Classes - Digital brochure for students and parents (Code Private)
 
 🚫 The source code for this project is **private**.
 
