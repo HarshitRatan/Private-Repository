@@ -6,6 +6,8 @@ This repository contains overviews of some of my private or confidential project
 
 🔹 [S R Classes Website](./sr-classes-website/README.md)
 
+
 📬 **Want to know more?**  
-- Email: harshitratanshukla@gmail.com
-- Phone: +91-9415093948
+
+📧 Email: `harshitratanshukla@gmail.com`  
+📱 Phone: `+91-9415093948`
