@@ -2,7 +2,7 @@
 
 🚫 The source code for this project is **private**.
 
-🔗 Live Preview: [https://srclasses.netlify.app](https://srclasses.netlify.app)
+🔗 Live Preview: [https://sr-classes-showcase-code.vercel.app](https://sr-classes-showcase-code.vercel.app)
 
 📌 **Project Overview:**
 A responsive and modern website developed for S R Classes, a coaching institute near SVM Sultanpur. The site showcases toppers, enables test result checks, provides institute information, and includes contact details for new admissions.
