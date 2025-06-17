@@ -12,7 +12,11 @@ This repository contains overviews of some of my private or confidential project
 
 ---
 
-🔹 [RatanGPT Dashboard](./ratan-dashboard/README.md)
+🔹 [RatanGPT - Portfolio](./portfolio-ratangpt/README.md)
+
+---
+
+🔹 [RatanGPT - Dashboard](./ratan-dashboard/README.md)
 
 ---
 
